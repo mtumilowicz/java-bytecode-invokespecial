@@ -4,7 +4,6 @@
 The main goal of this project is to show differences between 
 `invokespecial` vs `invokevirtual`.
 
-
 _Reference_: https://www.artima.com/underthehood/invocationP.html
 
 # preface

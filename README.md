@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java-bytecode-invokespecial.svg?branch=master)](https://travis-ci.com/mtumilowicz/java-bytecode-invokespecial)
+
 # java-bytecode-invokespecial
 _Reference_: https://www.artima.com/underthehood/invocationP.html
 

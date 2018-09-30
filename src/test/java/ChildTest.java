@@ -10,7 +10,7 @@ public class ChildTest {
 
     @Test
     public void where() {
-        assertThat(new Child().locate(), is("In Child"));
+        assertThat(new Child().where(), is("In Child"));
     }
 
     @Test

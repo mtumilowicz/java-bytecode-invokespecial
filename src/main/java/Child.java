@@ -5,8 +5,4 @@ class Child extends Parent {
     String where() {
         return "In Child";
     }
-
-    String locate() {
-        return where();
-    }
 }

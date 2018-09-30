@@ -12,9 +12,15 @@ public class ChildTest {
     public void where() {
         assertThat(new Child().where(), is("In Child"));
     }
-
+    
     @Test
     public void locate() {
         assertThat(new Child().locate(), is("In Child"));
+    }
+
+    @Test
+    public void locate_asParent() {
+        Parent childAsParent = new Child();
+        assertThat(childAsParent.locate(), is("In Child"));
     }
 }

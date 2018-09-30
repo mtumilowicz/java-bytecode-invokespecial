@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.com/mtumilowicz/java-bytecode-invokespecial.svg?branch=master)](https://travis-ci.com/mtumilowicz/java-bytecode-invokespecial)
 
 # java-bytecode-invokespecial
+The main goal of this project is to show differences between 
+`invokespecial` vs `invokevirtual`.
+
+
 _Reference_: https://www.artima.com/underthehood/invocationP.html
 
 # preface

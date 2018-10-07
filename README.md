@@ -55,4 +55,4 @@ desired result.
       MAXLOCALS = 1  
     ```
     if we use `INVOKEVIRTUAL` instead of `INVOKESPECIAL` then
-    `(new Child().locate()` returns `"In Child"`
+    `new Child().locate()` returns `"In Child"`
